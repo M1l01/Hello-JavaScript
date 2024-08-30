@@ -56,6 +56,7 @@ myNewArray = miArray.slice(1, 3)
 console.log(myNewArray)
 
 //splice
+console.log(miArray)
 miArray.splice(1,3)
 console.log(miArray)
 
