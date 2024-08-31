@@ -67,6 +67,7 @@ console.log(miArray)
 miArray = ["Emilio", "EmiljoDev", "Lemos", 22, true]
 miArray.splice(1, 2, 3)
 console.log(miArray)
+console.log(typeof miArray)
 
 
 
