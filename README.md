@@ -1,2 +1,0 @@
-# Hello-JavaScript
-Aprendiendo JavaScript
